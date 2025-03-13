@@ -22,3 +22,7 @@ function addTask(){
 
     taskText.value="";
 }
+
+function toggleTask(elemtent){
+    
+}
